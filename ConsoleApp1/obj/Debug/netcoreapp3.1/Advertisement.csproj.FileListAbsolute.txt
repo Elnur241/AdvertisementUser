@@ -1,0 +1,14 @@
+C:\Users\Elnur\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Advertisement.exe
+C:\Users\Elnur\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Advertisement.deps.json
+C:\Users\Elnur\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Advertisement.runtimeconfig.json
+C:\Users\Elnur\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Advertisement.runtimeconfig.dev.json
+C:\Users\Elnur\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Advertisement.dll
+C:\Users\Elnur\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Advertisement.pdb
+C:\Users\Elnur\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Advertisement.csproj.AssemblyReference.cache
+C:\Users\Elnur\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Advertisement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elnur\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Advertisement.AssemblyInfoInputs.cache
+C:\Users\Elnur\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Advertisement.AssemblyInfo.cs
+C:\Users\Elnur\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Advertisement.csproj.CoreCompileInputs.cache
+C:\Users\Elnur\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Advertisement.dll
+C:\Users\Elnur\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Advertisement.pdb
+C:\Users\Elnur\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Advertisement.genruntimeconfig.cache
